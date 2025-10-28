@@ -22,7 +22,7 @@ Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
 
 <!-- - 🔭  I’m currently improving on my [personal portfolio](https://dtoledo-portfolio.vercel.app) -->
 <!-- - 🌱  I’m currently learning CS50: Introduction to Computer Science. -->
-- 🧑‍🎓  A BSc Computer Science student at University of Hertfordshire.
+- 🧑‍🎓  A BSc Computer Science(CyberSecurity and Networks) student at University of Hertfordshire.
 - 👯  I’m looking to collaborate on open source projects
 - 💬  Ask me about ... Anything
 - 😄  Pronouns: He/Him
