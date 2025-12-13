@@ -18,7 +18,7 @@ I'm currently working my webdevelopment skills, my personal portfolio and this g
 
 <img align="right" width="500" height="320" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL
+Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL | JAVA
 
 <!-- - 🔭  I’m currently improving on my [personal portfolio](https://dtoledo-portfolio.vercel.app) -->
 <!-- - 🌱  I’m currently learning CS50: Introduction to Computer Science. -->
