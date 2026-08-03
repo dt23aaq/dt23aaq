@@ -12,17 +12,17 @@
 </p> -->
 
 <h1 align="center"> Hi there <img src="https://github.com/dt23aaq/dt23aaq/blob/main/GIFs/Hi.gif" width="15px">, I'm Darrel </h1>
-<h3 align="center"> I'm an aspiring software developer. ❤<h3>
+<h3 align="center"> I'm a BSc Computer Science (Cybersecurity and Networks). ❤<h3>
 
-I'm currently working my webdevelopment skills, my personal portfolio and this github.
+I'm currently working my aws cloud practitioner skills, my personal portfolio and this github.
 
 <img align="right" width="500" height="320" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-Skills: HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL | JAVA
+Skills: AWS fundamentals | Linux | Proxmox | virtualisation | home lab administration | cloud concepts | networking fundamentals | HTML5 | CSS3 | JS | VUE JS | PYTHON | MYSQL | JAVA
 
 <!-- - 🔭  I’m currently improving on my [personal portfolio](https://dtoledo-portfolio.vercel.app) -->
 <!-- - 🌱  I’m currently learning CS50: Introduction to Computer Science. -->
-- 🧑‍🎓  A BSc Computer Science(CyberSecurity and Networks) student at University of Hertfordshire.
+- 🧑‍🎓  A BSc Computer Science(CyberSecurity and Networks) graduate at University of Hertfordshire.
 - 👯  I’m looking to collaborate on open source projects
 - 💬  Ask me about ... Anything
 - 😄  Pronouns: He/Him
