@@ -12,7 +12,7 @@
 </p> -->
 
 <h1 align="center"> Hi there <img src="https://github.com/dt23aaq/dt23aaq/blob/main/GIFs/Hi.gif" width="15px">, I'm Darrel </h1>
-<h3 align="center"> I'm a BSc Computer Science (Cybersecurity and Networks). ❤<h3>
+<h3 align="center">🧑‍🎓 Final-year BSc Computer Science (Cybersecurity and Networks) student at the University of Hertfordshire — graduating September 2026 ❤<h3>
 
 I'm currently working my aws cloud practitioner skills, my personal portfolio and this github.
 
